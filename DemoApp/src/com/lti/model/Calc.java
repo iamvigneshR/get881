@@ -5,11 +5,11 @@ public class Calc {
 	{
 		System.out.println("Sum = " +(num1+num2));
 	}
-	
-	public void subtraction(int num1,int num2)
+	public void sub(int num1,int num2)
 	{
-		System.out.println("Difference = " +(num1-num2));
+		System.out.println("sub = " +(num1-num2));
 	}
+	
 	
 	
 
